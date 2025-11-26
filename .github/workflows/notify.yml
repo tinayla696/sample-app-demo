@@ -13,4 +13,4 @@ jobs:
           token: ${{ secrets.PROJECT_REPO_PAT }}
           repository: tinayla696/knowledge-potal-demo
           event-type: app-update
-          client-payload: '{"app_name": "sample-app", "remote_url": "https://github.com/tinayla696/sample-app-demo.git"}'
+          client-payload: '{"app_name": "sample-app-demo", "remote_url": "https://github.com/tinayla696/sample-app-demo.git"}'
