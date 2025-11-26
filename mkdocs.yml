@@ -1,0 +1,5 @@
+site_name: Sample App Demo
+theme:
+  name: material
+nav:
+  - Home: index.md
